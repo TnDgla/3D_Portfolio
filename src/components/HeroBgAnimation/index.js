@@ -266,7 +266,7 @@ const HeroBgAnimation = () => (
           y2="218.154"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#945DD6" />
+          <stop stopColor="#945DD66C4E31" />
           <stop offset="1" stopColor="#945DD6" stopOpacity="0" />
         </linearGradient>
         <linearGradient
