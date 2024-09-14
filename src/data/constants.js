@@ -6,10 +6,10 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I am passionate about building intuitive and user-centered web applications. I enjoy solving complex problems, creating smooth user experiences, and constantly learning to improve my skills. I am excited to work on projects that make a positive impact and push the boundaries of what is possible. Let us collaborate and create something amazing!",
   github: "https://github.com/Mahiimaa/",
   resume:
-    "https://drive.google.com/file/d/1txFKZD3LNIXMc329jD9c995AU8LItOXK/view?usp=drive_link",
+    "file:///C:/Users/user/Downloads/Mahima%20Gurung%20CV.pdf",
   linkedin: "https://www.linkedin.com/in/mahima-gurung-870b82288/",
   insta: "https://www.instagram.com/grgmahiima/",
   facebook: "https://www.facebook.com/gurung.maheema/",
@@ -250,8 +250,8 @@ export const projects = [
       "Redux",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/DecisionHub",
-    webapp: "https://decisionhub.netlify.app/",
+    // github: "https://github.com/rishavchanda/DecisionHub",
+    // webapp: "https://decisionhub.netlify.app/",
   },
   {
     id: 9,
@@ -269,8 +269,8 @@ export const projects = [
       "Django",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify-management.netlify.app/",
+    // github: "https://github.com/rishavchanda/Trackify",
+    // webapp: "https://trackify-management.netlify.app/",
   },
   {
     id: 0,
@@ -282,22 +282,8 @@ export const projects = [
       "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
-    member: [
-      {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
+    // github: "https://github.com/rishavchanda/Podstream",
+    // webapp: "https://podstream.netlify.app/",
   },
   {
     id: 1,
@@ -313,8 +299,8 @@ export const projects = [
       "JavaScript",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
+    // github: "https://github.com/rishavchanda/Project-Management-App",
+    // webapp: "https://vexa-app.netlify.app/",
   },
 ];
 

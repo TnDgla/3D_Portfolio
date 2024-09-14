@@ -22,12 +22,12 @@ body {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #222a35;
+  background: #35222b;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #575c66;
+  background: #66575a;
   border-radius: 6px;
 }
 
