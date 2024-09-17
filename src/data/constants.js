@@ -172,7 +172,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    img: "https://www.google.com/imgres?q=iic&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100064824125445&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FIICNepal%2F&docid=7ssq5BHC-pcueM&tbnid=OzdUJSqGp77jKM&vet=12ahUKEwiQzM2yyMqIAxWUSmwGHXsCMlcQM3oECBgQAA..i&w=1250&h=1250&hcb=2&ved=2ahUKEwiQzM2yyMqIAxWUSmwGHXsCMlcQM3oECBgQAA",
     role: "Frontend Developer Intern",
     company: "IIC",
     date: "June 2024 - Sep 2024",
@@ -190,7 +190,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
+    img: "https://www.google.com/imgres?q=iic&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100064824125445&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FIICNepal%2F&docid=7ssq5BHC-pcueM&tbnid=OzdUJSqGp77jKM&vet=12ahUKEwiQzM2yyMqIAxWUSmwGHXsCMlcQM3oECBgQAA..i&w=1250&h=1250&hcb=2&ved=2ahUKEwiQzM2yyMqIAxWUSmwGHXsCMlcQM3oECBgQAA",
     role: "TA Intern",
     company: "IIC",
     date: "June 2024 - Sep 2024",
