@@ -116,6 +116,8 @@ This project is structured to ensure a systematic and incremental development pr
    - **Video:** [Integrating OpenAI](https://www.youtube.com/watch?v=7pV_TCCK3Hw)
 
 2. Create a form for user prompts and link it to API calls.
+   - **Reading:** [Form in React](https://reactjs.org/docs/forms.html#controlled-components)  
+   - **Video:** [React Forms](https://www.youtube.com/watch?v=EYpdEYK25Dc)
 
 3. Validate user inputs and handle API responses.
    - **Reading:** [Form Validation in React](https://reactjs.org/docs/forms.html#controlled-components)  
