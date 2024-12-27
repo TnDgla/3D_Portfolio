@@ -94,7 +94,7 @@ This project is structured to ensure a systematic and incremental development pr
 #### **Tasks:**
 1. Set up a new MERN stack project.
    - **Reading:** [Setting Up MERN Stack](https://www.mongodb.com/mern-stack)  
-   - **Video:** [MERN Stack Crash Course](https://www.youtube.com/watch?v=fnpmR6Q5lEc)
+   - **Video:** [MERN Stack Crash Course](https://www.youtube.com/watch?v=R4AhvYORZRY)
 
 2. Create separate `client` and `server` directories for frontend and backend.
 
@@ -116,8 +116,8 @@ This project is structured to ensure a systematic and incremental development pr
    - **Video:** [Integrating OpenAI](https://www.youtube.com/watch?v=7pV_TCCK3Hw)
 
 2. Create a form for user prompts and link it to API calls.
-   - **Reading:** [Form in React](https://reactjs.org/docs/forms.html#controlled-components)  
-   - **Video:** [React Forms](https://www.youtube.com/watch?v=EYpdEYK25Dc)
+   - **Reading:** [Form in React](https://legacy.reactjs.org/docs/forms.html)  
+   - **Video:** [React Forms](https://www.youtube.com/watch?v=SdzMBWT2CDQ&t=591s)
 
 3. Validate user inputs and handle API responses.
    - **Reading:** [Form Validation in React](https://reactjs.org/docs/forms.html#controlled-components)  
@@ -155,13 +155,13 @@ This project is structured to ensure a systematic and incremental development pr
 #### **Tasks:**
 1. Implement a download button for images using FileSaver.js.
    - **Reading:** [FileSaver.js Documentation](https://github.com/eligrey/FileSaver.js)  
-   - **Video:** [File Download in React](https://www.youtube.com/watch?v=nNBXG2MBR_E)
+   - **Video:** [File Download in React](https://www.youtube.com/watch?v=kwfoEb0-DQI)
 
 2. Enable user comments and community sharing features.
 
 3. Add hover effects and animations for a better user experience.
    - **Reading:** [CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations)  
-   - **Video:** [Hover Effects in CSS](https://www.youtube.com/watch?v=OHHsYLRFf7s)
+   - **Video:** [Hover Effects in CSS](https://www.youtube.com/watch?v=cDLVIoXW-OQ&t=42s)
 
 - **Deliverables:**
   - Interactive gallery with download and sharing options.
